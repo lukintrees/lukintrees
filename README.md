@@ -14,3 +14,6 @@
 <h3 align="left">Tools:</h3>
 
 [![My Languages](https://skillicons.dev/icons?i=docker,git,github,grafana,nginx,npm,pnpm,yarn)](https://skillicons.dev)
+
+Wacatime from October 10, 2024 (and java stats from the first half of 2023)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lukintrees)](https://wakatime.com/@lukintrees) 
